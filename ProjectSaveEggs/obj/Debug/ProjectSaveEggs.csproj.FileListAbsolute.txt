@@ -1,0 +1,11 @@
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\bin\Debug\ProjectSaveEggs.exe.config
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\bin\Debug\ProjectSaveEggs.exe
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\bin\Debug\ProjectSaveEggs.pdb
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\obj\Debug\ProjectSaveEggs.csprojAssemblyReference.cache
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\obj\Debug\ProjectSaveEggs.Properties.Resources.resources
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\obj\Debug\ProjectSaveEggs.csproj.GenerateResource.cache
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\obj\Debug\ProjectSaveEggs.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\obj\Debug\ProjectSaveEggs.exe
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\obj\Debug\ProjectSaveEggs.pdb
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\obj\Debug\ProjectSaveEggs.Main.resources
+D:\Projects\VisualStudio\ProjectSaveEggs\ProjectSaveEggs\obj\Debug\ProjectSaveEggs.Form2.resources
